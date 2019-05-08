@@ -4,8 +4,8 @@
 ScreenShot
 ----------------
 <div>
-  <img src="./readme_images/1.UI.gif" width= "380" height="240"> 
-  <img src="./readme_images/2.강의자료등록.gif" width= "380" height="240">
+  <img src="./readme_images/1.UI.gif" width= "400" height="240"> 
+  <img src="./readme_images/2.강의자료등록.gif" width= "400" height="240">
 </div>
 
 * 학생이 강의 자료 다운
