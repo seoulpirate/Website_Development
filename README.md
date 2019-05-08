@@ -3,11 +3,10 @@
 
 
 * 첫 배너 화면
-![Alt Text](./readme_images/1.UI.gif)
 <img src="./readme_images/1.UI.gif" width="320" height="240">
 
 * 교수가 강의 자료 등록
-![Alt Text](./readme_images/2.강의자료등록.gif) 
+<img src="./readme_images/2.강의자료등록.gif" height="240">
 
 * 학생이 강의 자료 다운
 ![Alt Text](./readme_images/3.강의자료다운.gif)
