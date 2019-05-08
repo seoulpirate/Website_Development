@@ -8,7 +8,7 @@ ScreenShot
   <img src="./readme_images/2.강의자료등록.gif" width= "430" height="240">
  </div>
 <div>
-  첫 화면&emsp;&emsp;교수가 강의자료                   
+&emsp;&emsp;첫 화면&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;교수가 강의자료                   
 </div>  
 </div>
 <div>  
