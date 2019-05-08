@@ -3,7 +3,7 @@
 
 
 * 첫 배너 화면
-![Alt Text](./readme_images/1.UI.gif){: width="320" height="240"}
+![Alt Text](./readme_images/1.UI.gif)
 
 * 교수가 강의 자료 등록
 ![Alt Text](./readme_images/2.강의자료등록.gif) 
