@@ -7,10 +7,10 @@ ScreenShot
   <img src="./readme_images/1.UI.gif" width= "430" height="240"> 
   <img src="./readme_images/2.강의자료등록.gif" width= "430" height="240">
  </div>
-<div style="width:200; float: left;">
+<div style="width:200; ">
   첫 화면
 </div>
-<div style="width:200; float: right;">
+<div style="width:200; ">
   교수가 강의자료 
 </div>
 <div>  
