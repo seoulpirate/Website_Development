@@ -7,7 +7,7 @@
 <img src="./readme_images/2.강의자료등록.gif" width="320" height="240">
 
 * 학생이 강의 자료 다운
-![Alt Text](./readme_images/3.강의자료다운.gif)
+![Alt text](./readme_images/3.강의자료다운.gif "Optional title")
 
 * 교수가 안내 메일 발송, 학생이 안내 메일 확인
 ![Alt Text](./readme_images/4.안내메일.gif)
