@@ -10,7 +10,7 @@ ScreenShot
   </div>
   <tr>
     <td width= "400"> * 첫 화면 </td>
-    <td width= "400%"> * 교수가 강의자료 </td>
+    <td width= "400"> * 교수가 강의자료 </td>
   </tr>
 
 <div>  
