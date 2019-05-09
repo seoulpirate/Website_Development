@@ -3,21 +3,10 @@
 
 ScreenShot
 ----------------
-<div>
-    <img src="./readme_images/1.UI.gif" width= "430" height="240" > 
-    <img src="./readme_images/2.강의자료등록.gif" width= "430" height="240" >
-</div>
-<div>  
-  <img src="./readme_images/3.강의자료다운.gif" width= "430" height="240"> 
-  <img src="./readme_images/4.안내메일.gif" width= "430" height="240">
-</div>
- &emsp;* 학생이 강의 자료 다운&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;* 교수가 안내 메일 발송, 학생이 안내 메일 
- 
-
-| 값 | 의미 | 
+| 첫 화면 | 교수가 강의자료 등록 | 
 |:---:|:---:|
 | <img src="./readme_images/1.UI.gif" width= "430" height="240" >  | <img src="./readme_images/2.강의자료등록.gif" width= "430" height="240" > |  
 
-| 값 | 의미 | 
+| 학생이 강의자료 다운 | 안내메일 발송및 확인 | 
 |:---:|:---:|
 | <img src="./readme_images/3.강의자료다운.gif" width= "430" height="240">  | <img src="./readme_images/4.안내메일.gif" width= "430" height="240"> |
