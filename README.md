@@ -12,7 +12,7 @@ ScreenShot
   <img src="./readme_images/4.안내메일.gif" width= "430" height="240">
 </div>
  &emsp;* 학생이 강의 자료 다운&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;* 교수가 안내 메일 발송, 학생이 안내 메일 
- ------------
+ 
  | 값 | 의미 | 기본값 |
 |---|:---:|---:|
 | `static` | 유형(기준) 없음 / 배치 불가능 | `static` |
