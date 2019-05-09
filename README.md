@@ -9,8 +9,8 @@ ScreenShot
     <img src="./readme_images/2.강의자료등록.gif" width= "430" height="240" >
   </div>
   <tr>
-    <td width= "45%"> * 첫 화면 </td>
-    <td width= "45%"> * 교수가 강의자료 </td>
+    <td width= "400"> * 첫 화면 </td>
+    <td width= "400%"> * 교수가 강의자료 </td>
   </tr>
 
 <div>  
