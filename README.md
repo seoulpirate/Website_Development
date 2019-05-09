@@ -3,16 +3,16 @@
 
 ScreenShot
 ----------------
-<div>
+
   <div>
     <img src="./readme_images/1.UI.gif" width= "430" height="240" > 
     <img src="./readme_images/2.강의자료등록.gif" width= "430" height="240" >
   </div>
   <tr>
-    <td width= "400"> * 첫 화면 </td>
-    <td width= "400"> * 교수가 강의자료 </td>
+    <td width= "45%"> * 첫 화면 </td>
+    <td width= "45%"> * 교수가 강의자료 </td>
   </tr>
-</div>
+
 <div>  
   <img src="./readme_images/3.강의자료다운.gif" width= "430" height="240"> 
   <img src="./readme_images/4.안내메일.gif" width= "430" height="240">
