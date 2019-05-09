@@ -9,4 +9,4 @@ ScreenShot
 
 | 학생이 강의자료 다운 | 안내메일 발송및 확인 | 
 |:---:|:---:|
-| <img src="./readme_images/3.강의자료다운.gif" height="240">  | <img src="./readme_images/4.안내메일.gif" width= "430" height="240"> |
+| <img src="./readme_images/3.강의자료다운.gif" >  | <img src="./readme_images/4.안내메일.gif" > |
