@@ -5,7 +5,7 @@ ScreenShot
 ----------------
 | 첫 화면 | 교수가 강의자료 등록 | 
 |:---:|:---:|
-| <img src="./readme_images/1.UI.gif" width= "430" height="240" >  | <img src="./readme_images/2.강의자료등록.gif" width= "430" height="240" > |  
+| <img src="./readme_images/1.UI.gif"  >  | <img src="./readme_images/2.강의자료등록.gif"  > |  
 
 | 학생이 강의자료 다운 | 안내메일 발송및 확인 | 
 |:---:|:---:|
